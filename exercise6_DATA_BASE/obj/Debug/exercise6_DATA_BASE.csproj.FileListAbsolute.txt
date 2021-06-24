@@ -1,0 +1,46 @@
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe.config
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.pdb
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Form1.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Properties.Resources.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.GenerateResource.Cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe.config
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Form1.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe.config
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Form1.resources
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Documentos\TRABAJOS\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe.config
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Form1.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Form1.resources
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.csproj.CoreCompileInputs.cache
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\obj\Debug\exercise6_DATA_BASE.pdb
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe.config
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.exe
+C:\Users\jazhi\OneDrive\Documentos\UTLD\TRABAJOS\3 cuatri\PROGRA\exercise6_DATA_BASE\exercise6_DATA_BASE\bin\Debug\exercise6_DATA_BASE.pdb
